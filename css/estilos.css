@@ -13,15 +13,18 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-#container h1{
-    font-size: 20px;
-}
 header {
     display: flex;
     align-items: center;
     column-gap: 10px;
 }
-header p {
+header h1 {
+    font-size: 2rem;
     margin: inherit;
     color: burlywood;
+}
+header strong {
+    font-size: 2rem;
+    margin: inherit;
+    color: rgba(52, 197, 90, 0.178)
 }
