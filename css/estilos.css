@@ -16,3 +16,12 @@ body{
 #container h1{
     font-size: 20px;
 }
+header {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+header p {
+    margin: inherit;
+    color: burlywood;
+}
