@@ -28,3 +28,9 @@ header strong {
     margin: inherit;
     color:rosybrown
 }
+footer{
+    background: antiquewhite;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    display: flex;
+    justify-content: center;
+}
