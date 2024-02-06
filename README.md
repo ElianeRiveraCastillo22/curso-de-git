@@ -23,7 +23,7 @@ Esta es un página que creamos en el curso de <a href="https://platzi.com/cursos
 <div>
     <h3>Colaboradoras</h3>
     <ul>
-        <li><a href="https://github.com/ElianeRiveraCastillo22">ElianeRiveraCastillo22<a></li>
+        <li><a href="https://github.com/ElianeRiveraCastillo22">ElianeRiveraCastillo22</a></li>
         <li><a href="https://github.com/elianecolaboradora">elianecolaboradora 🤯😂</a></li>
     </ul>
 </div>
